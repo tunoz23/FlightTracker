@@ -1,4 +1,4 @@
-API_KEY = "XVjgjc41CXWtzvRzyR-JzMiH4zC0WUUi"
+API_KEY = ""
 import datetime
 import requests
 import json
