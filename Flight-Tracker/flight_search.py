@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "XVjgjc41CXWtzvRzyR-JzMiH4zC0WUUi"
+API_KEY = ""
 
 
 class FlightSearch:
